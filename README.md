@@ -1,2 +1,1 @@
-# africamap
-Created with CodeSandbox
+# D3 Choropleth Map
